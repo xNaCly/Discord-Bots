@@ -1,4 +1,4 @@
-const token = "NTQ3ODA4NzUxNzA5NTg1NDEx.D0_uaA._gKTQLv2i0RPr6RiJWdJf_PdIVs";
+const token = "";
 const Discord = require("discord.js");
 const client = new Discord.Client({ disableEveryone: true });
 const Prefix = "-";

@@ -1,0 +1,148 @@
+.dropdown-item:focus,
+.dropdown-item:hover {
+	color: white;
+	background-color: #298bf5;
+}
+
+.pointer {
+	cursor: pointer;
+}
+
+.back-to-top {
+	cursor: pointer;
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+	display: none;
+}
+
+#load {
+	background: rgba(0, 0, 0, 0.7);
+	display: flex;
+	justify-content: center;
+	height: 100vh;
+	position: fixed;
+	top: 0;
+	z-index: 100000;
+	left: 0;
+	width: 100vw;
+	align-items: center;
+}
+
+.dashboard {
+	display: none;
+}
+
+#guildList {
+	padding: 0 100px;
+	margin: 50px auto;
+	justify-content: center;
+}
+
+.guild {
+	color: black;
+	border: 2px solid black;
+	display: flex;
+	margin: 8px;
+	height: 60px;
+	width: 60px;
+	font-size: 23px;
+	border-radius: 100vw;
+	align-items: center;
+	justify-content: center;
+}
+
+.dropdown-menu.show {
+	display: block !important;
+}
+
+.dropdown-menu {
+	display: none !important;
+}
+
+#accountDropdownButton {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+}
+
+#accountDropdownButton img {
+	border-radius: 20px;
+	width: 20px;
+	height: 20px;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+/* .dropdown .dropdown-menu {
+	-webkit-transition: all 200ms ease-in;
+	-moz-transition: all 200ms ease-in;
+	-ms-transition: all 200ms ease-in;
+	-o-transition: all 200ms ease-in;
+	transition: all 200ms ease-in;
+}
+
+.dropdown:hover .dropdown-menu {
+	display: block;
+	opacity: 1;
+} */
+
+#rrMessages {
+	background: #36393f;
+	height: calc(100vh - 150px);
+	overflow: scroll;
+}
+
+.msg {
+	display: flex;
+	color: #dcddde;
+	padding: 20px 0;
+}
+
+.img img {
+	margin: 10px;
+	width: 50px;
+	border-radius: 50%;
+	height: auto;
+}
+
+.content img {
+	width: 100%;
+}
+
+.comment {
+	padding-right: 25px;
+	width: 100%;
+}
+
+.author {
+	font-weight: 900;
+	color: #fff;
+}
+
+.user {
+}
+.content {
+	width: 100%;
+}
+
+.reaction {
+	margin: 0 2px;
+	transition: background-color 0.3s ease;
+}
+
+.emoji {
+	width: auto !important;
+	height: 24px;
+	vertical-align: bottom;
+}
+
+#page-content-wrapper {
+	overflow: scroll;
+	height: calc(100vh - 71px);
+}
+
+#sidebar-wrapper {
+	min-height: 0;
+}

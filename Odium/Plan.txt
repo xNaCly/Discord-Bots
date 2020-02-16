@@ -1,0 +1,35 @@
+﻿Funktionen: 
+  Matteo: 
+    -welcome msg ✅
+    -say command ✅
+    -meme befehl ✅
+    -report System ✅
+    -ban, clear, help, kick, warn ✅
+    -mute ✅
+    -invite msg ✅
+    -leave msg ✅
+    -tryout
+          
+  Samuel:
+    -channelcreation ✅
+    -reaction creation ✅
+    -info (user, server, role, bot)  ✅
+    -nutzer aktivität
+    -partner system
+    -Music bot ✅
+    -bewerbungs system
+    -custom admin panel
+    -server stats
+____________________
+
+other functions:
+-fn bot
+-backup
+-anti grief/hack
+-levelsystem
+-dice/coninflip
+-randomuser
+-about/donate
+-stats
+-prefix (set, get)
+-log (einstellen)

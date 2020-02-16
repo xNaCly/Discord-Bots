@@ -1,0 +1,38 @@
+<div id="sayCommand" class="card">
+	<div id="statusSend"></div>
+	<div class="card-body">
+		<h5 class="card-title d-flex" style="justify-content: space-between">
+			Say
+		</h5>
+		<div class="card-text">
+			Channel:
+			<div id="sayChannels">
+				<select class="textchannels selectpicker"> </select>
+			</div>
+			<p class="m-2"></p>
+			Roles:&nbsp;
+			<span
+				><button onclick="addSayRole()" class="btn btn-sm btn-success">
+					+
+				</button>
+				<button onclick="removeSayRole()" class="btn btn-sm btn-danger">
+					-
+				</button></span
+			>
+			<div id="sayRoleList" class="row m-2"></div>
+			<br />
+			<div class="form-group">
+				<label for="sayText">Text:</label>
+				<textarea
+					id="sayText"
+					class="form-control text-body"
+					rows="3"
+				></textarea>
+			</div>
+			<button class="btn btn-primary" onclick="say()">
+				Post Message
+			</button>
+		</div>
+	</div>
+</div>
+<br />

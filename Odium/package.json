@@ -1,0 +1,49 @@
+{
+	"name": "odium",
+	"version": "1.0.0",
+	"description": "Discord.js Bot",
+	"main": "main.js",
+	"scripts": {
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"test": "react-scripts test",
+		"eject": "react-scripts eject"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/NaCl-y1/Odium.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/NaCl-y1/Odium/issues"
+	},
+	"dependencies": {
+		"bootstrap": "^4.3.1",
+		"circular-json": "^0.5.9",
+		"es6-dynamic-template": "^1.0.5",
+		"express": "^4.16.4",
+		"js-base64": "^2.5.1",
+		"jsonfile": "^5.0.0",
+		"random-puppy": "^1.1.0",
+		"react": "^16.8.6",
+		"react-bootstrap": "^1.0.0-beta.8",
+		"react-dom": "^16.8.6",
+		"react-scripts": "2.1.8",
+		"request": "^2.88.0",
+		"simple-youtube-api": "^5.1.1",
+		"socket.io": "^2.2.0",
+		"socket.io-client": "^2.2.0",
+		"ytdl-core": "^0.29.1"
+	},
+	"homepage": "https://github.com/NaCl-y1/Odium#readme",
+	"eslintConfig": {
+		"extends": "react-app"
+	},
+	"browserslist": [
+		">0.2%",
+		"not dead",
+		"not ie <= 11",
+		"not op_mini all"
+	]
+}

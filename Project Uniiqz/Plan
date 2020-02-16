@@ -1,0 +1,82 @@
+Plan: Unix:
+    Prefix: !
+
+
+    Dm Abfragen:
+        !bewerbenMitglied :
+            1. Frage Willst du Dich als Mitglied Für team Uniiqz bewerben : :white_check_mark: :x: 
+            2. Frage Wie Willst du genannt
+            3. Frage Wie ist dein Discord Name + Tag 
+            4. Frage Wie Ist dein Ingame Name
+            5. Frage auf Welcher Plattform Spielst du
+            6. Frage Wie viele Arena punkte Hast du 
+            7. Frage Wie viele Earnings hast du 
+            8. Frage Wann Willst du Dein Tryout
+            9. Frage Bitte schicke deine Youtube, Instagram und Twitch Links Hintereinander Falls du Keinen Hast schreibe Habe Keine 
+            10. Frage Danke für deine Bewerbung 
+
+
+        Nachricht an alle die die rolle Tester haben: 
+            Neue Bewerbung von: 2. Antwort 
+
+            Discord:
+            3. Antwort
+            Ingame Name:
+            4. Antwort
+            Plattform:
+            5. Antwort emoji
+            Arena Punkte:
+            6. Antwort
+            Earnings:
+            7. Antwort
+            Tryout Zeit:
+            8. Antwort
+
+    Wenn du Das Tryout machen Willst und zeit hast Dann Klicke auf dieses Emoji unter Der Nachricht: :white_check_mark: 
+
+    Zusätliche Abfrage Für denn Ersten Der Dass Emoji Gedrückt hat:
+
+
+        1. Frage: 
+                Hey Wenn du Bereit bist Den Bewerber zu testen und alle Fragen die Ich dir jetzt schicken werde Beanworten
+                Dann Drücke auf das :white_check_mark: 
+
+        2. Frage Willkommen im Tryout
+
+                Bitte Spiele Mit dem Bewerber als erstes 10 1v1s
+
+                Ihr müsst Beide aufgewärmt seit und lasst es erst zählen wenn ihr aufgewärmt seit
+
+                Achte Darauf:
+                    Wie gut sein Aim ist.
+                    Wie gut er Baut.
+                    Und wie gut er Editieren Kann (Falls du es nicht mitbekommen hast lass ihn ein Edit Parkour machen nach seiner wahl
+
+                            C. Frage: 
+                            
+                            Wie gut kann er Aimen?
+
+                            Reagiere auf Die Reaktion die auf sein Aim zustößt.
+                                Nicht gut: :one: 
+                                Okay: :two: 
+                                Gut: :three: 
+                                Perfekt: :four:
+
+                            B. Frage:
+
+                            Wie gut kann er Bauen?
+
+                            Reagiere auf die Raktion die auf sein Bauen zustößt.
+                                Nicht gut: :one: 
+                                Okay: :two:
+                                Gut: :three: 
+                                Perfekt: :four:
+
+                            B. Frage:
+                            
+                            Wie gut kann er Editieren?
+                            Reagiere auf die Raktion die auf sein Editing zustößt.
+                                Nicht gut: :one: 
+                                Okay: :two:
+                                Gut: :three: 
+                                Perfekt: :four:

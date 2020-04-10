@@ -5,7 +5,7 @@ const client = new Discord.Client({ disableEveryone : true });
 
 
 client.on('ready', async => {
-    console.log("Nigga")
+    console.log("ready")
 })
 
 

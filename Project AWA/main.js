@@ -26,7 +26,7 @@ client.on('message', async msg => {
         .setColor("#00ff00")
         .addField("Bot Name:", client.user.username)
         .addField("Erstellt am:", client.user.createdAt)
-        .addField("Programmiersprache:",`Java/discord.js`)
+        .addField("Programmiersprache:",`Js/discord.js`)
         .addField("Owner:",`<@417699816836169728>`)
         .addField("Git-Hub-link:","https://github.com/NaCl-y1/Phoenix")
         .setFooter("Bei einem Bug:", `sendet mir ne dm`);
